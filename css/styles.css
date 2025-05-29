@@ -11,12 +11,17 @@ body {
 	color: #FFFFFF;
 	font-size: 56px;
 	line-height: 1.07;
+	text-align: center;
+	letter-spacing: 0.02em;
 }
 
 .cls-h2 {
 	color: #2E2F42;
 	font-size: 36px;
+	letter-spacing: 0.02em;
+	text-transform: capitalize;
 	line-height: 1.11;
+	text-align: center;
 }
   
 .cls-h3 {
@@ -24,18 +29,41 @@ body {
 	font-size: 20px;
 	line-height: 1.2;
 	font-weight: 500;
+	letter-spacing: 0.02em;
 }
 
 .cls-a {
-	color: #000000;
+	color: #2e2f42;
 	text-decoration: none;
+	letter-spacing: 0.02em;
 	font-weight: 500;
 }
 
 .cls-cont {
-	color: #000000;
+	color: #434455;
 	text-decoration: none;
 	font-weight: 400;
+	letter-spacing: 0.02em
+}
+
+.cls-p {
+	letter-spacing: 0.02em;
+}
+
+.cls-s1 {
+	background-color: #2e2f42;
+}
+
+.cls-s3 {
+	background-color: #F4F4FD;
+}
+
+.cls-li {
+	background-color: #FFFFFF;
+}
+
+.cls-foot {
+	
 }
 
 .cls-a:hover, .cls-a:focus, .cls-cont:hover, .cls-cont:focus {
@@ -43,24 +71,21 @@ body {
 }
 
 .cls-logo {
-	font-family: "Raleway";
+	font-family: "Raleway", sans-serif;
+	font-weight: 700;
 	font-size: 18px;
 	line-height: 1.17;
-	letter-spacing: 3%;
+	letter-spacing: 0.03em;
 	text-decoration: none;
+	text-transform: uppercase;
+	color: #4d5ae5;
 }
 
-.cls-logo .cls-web {
-  color: #4D5AE5;
-}
-
-.cls-logo .cls-studio {
+.cls-studio {
   color: #2E2F42;
 }
 
-.cls-logo:hover .cls-web,
 .cls-logo:hover .cls-studio,
-.cls-logo:focus .cls-web,
 .cls-logo:focus .cls-studio {
   color: #404BBF;
 }
@@ -68,6 +93,7 @@ body {
 .cls-button {
 	line-height: 1.5;
 	font-weight: 500;
+	letter-spacing: 0.04em;
 	color: white;
 	background-color: #4D5AE5;
 	border: none;
@@ -80,5 +106,6 @@ body {
 
 .cls-ul {
 	list-style-type: none;
+	font-style: normal;
 }
 
