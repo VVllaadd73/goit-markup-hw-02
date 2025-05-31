@@ -7,7 +7,7 @@ body {
 	background-color: white;
 }
 
-.cls-h1 {
+.cls-h {
 	color: #FFFFFF;
 	font-size: 56px;
 	line-height: 1.07;
@@ -15,7 +15,7 @@ body {
 	letter-spacing: 0.02em;
 }
 
-.cls-h2 {
+.cls-hh {
 	color: #2E2F42;
 	font-size: 36px;
 	letter-spacing: 0.02em;
@@ -24,7 +24,7 @@ body {
 	text-align: center;
 }
   
-.cls-h3 {
+.cls-hhh {
 	color: #2E2F42;
 	font-size: 20px;
 	line-height: 1.2;
@@ -50,11 +50,11 @@ body {
 	letter-spacing: 0.02em;
 }
 
-.cls-s1 {
+.cls-s {
 	background-color: #2e2f42;
 }
 
-.cls-s3 {
+.cls-sss {
 	background-color: #F4F4FD;
 }
 
