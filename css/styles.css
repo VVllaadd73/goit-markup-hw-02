@@ -50,12 +50,12 @@ body {
 	letter-spacing: 0.02em;
 }
 
-footer .cls-p {
-	color: #F4F4FD;
+.cls-foot {
+	background-color: #2e2f42;
 }
 
-.cls-sec {
-	background-color: #2e2f42;
+.cls-foot .cls-p {
+	color: #F4F4FD;
 }
 
 .cls-sss {
@@ -87,6 +87,10 @@ footer .cls-p {
 
 .cls-studio {
   color: #2E2F42;
+}
+
+.cls-foot .cls-studio {
+  color: #F4F4FD;
 }
 
 .cls-logo:hover .cls-studio,
