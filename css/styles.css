@@ -50,7 +50,11 @@ body {
 	letter-spacing: 0.02em;
 }
 
-.cls-s {
+footer .cls-p {
+	color: #F4F4FD;
+}
+
+.cls-sec {
 	background-color: #2e2f42;
 }
 
@@ -63,7 +67,7 @@ body {
 }
 
 .cls-foot {
-	
+	background-color: #2e2f42;
 }
 
 .cls-a:hover, .cls-a:focus, .cls-cont:hover, .cls-cont:focus {
